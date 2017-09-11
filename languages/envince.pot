@@ -1,0 +1,1381 @@
+# Copyright (C) 2017 ThemeGrill
+# This file is distributed under the GNU General Public License v3.0 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envince 1.1.8\n"
+"Report-Msgid-Bugs-To: themegrill@gmail.com\n"
+"POT-Creation-Date: 2017-05-10 09:49:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: ThemeGrill Team <themegrill@gmail.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: inc/admin/class-envince-admin.php:373
+msgid "1"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:374
+msgid "2"
+msgstr ""
+
+#: comment/comment.php:7 comment/ping.php:6
+msgid "%s ago"
+msgstr ""
+
+#: comment/comment.php:8 comment/ping.php:7 content/link.php:43
+#: content/quote.php:31 content/status.php:49
+msgid "Permalink"
+msgstr ""
+
+#: content/aside.php:28 content/audio.php:30 content/chat.php:36
+#: content/content.php:31 content/gallery.php:28 content/image.php:30
+#: content/link.php:28 content/quote.php:17 content/status.php:25
+#: content/video.php:30
+msgid "Posted in %s"
+msgstr ""
+
+#: content/aside.php:29 content/audio.php:31 content/chat.php:37
+#: content/content.php:32 content/gallery.php:29 content/image.php:31
+#: content/link.php:29 content/quote.php:18 content/status.php:26
+#: content/video.php:31
+msgid "Tagged %s"
+msgstr ""
+
+#: content/attachment-audio.php:28
+msgid "Audio Info"
+msgstr ""
+
+#: content/attachment-image.php:22
+msgid "Sizes: %s"
+msgstr ""
+
+#: content/attachment-image.php:60
+msgid "Image Info"
+msgstr ""
+
+#: content/attachment-image.php:71
+msgid "Gallery"
+msgstr ""
+
+#: content/attachment-video.php:28
+msgid "Video Info"
+msgstr ""
+
+#: content/error.php:4
+msgid "Nothing found"
+msgstr ""
+
+#: content/error.php:8
+msgid "Apologies, but no entries were found."
+msgstr ""
+
+#: content/gallery.php:56
+msgid "This gallery contains %s item."
+msgid_plural "This gallery contains %s items."
+msgstr[0] ""
+msgstr[1] ""
+
+#: footer.php:39
+#. Translators: 1 is current year, 2 is site name/link, 3 is WordPress
+#. name/link, and 4 is theme name/link.
+msgid "Copyright &#169; %1$s %2$s. Powered by %3$s and %4$s."
+msgstr ""
+
+#: header.php:13
+msgid "Skip to content"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:36 inc/admin/class-envince-admin.php:113
+msgid "About"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:74
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:77
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:90
+msgid "Dismiss"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:91
+msgid ""
+"Welcome! Thank you for choosing Envince! To fully take advantage of the "
+"best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:93
+msgid "Get started with Envince"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:115 inc/admin/customize.php:373
+msgid "%s"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:128
+#: inc/admin/customize-control-important-links.php:16
+msgid "Theme Info"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:130
+#: inc/admin/customize-control-important-links.php:28
+msgid "View Demo"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:132 inc/admin/class-envince-admin.php:202
+#: inc/admin/class-envince-admin.php:470
+#: inc/admin/customize-control-important-links.php:12
+msgid "View Pro"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:134
+#: inc/admin/customize-control-important-links.php:32
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:142
+msgid "Supported Plugins"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:145
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:148
+msgid "Changelog"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:182 inc/admin/metabox.php:43
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:183
+msgid "All Theme Options are available via Customize screen."
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:184
+msgid "Customize"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:188 inc/admin/class-envince-admin.php:190
+#: inc/admin/customize-control-important-links.php:24
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:189
+msgid "Please view our documentation page to setup the theme."
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:194
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:195
+msgid "Please put it in our dedicated support forum."
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:196
+msgid "Support Forum"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:200
+msgid "Need more features?"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:201 inc/admin/class-envince-admin.php:335
+msgid "Upgrade to PRO version for more exciting features."
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:206
+msgid "Got sales related question?"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:207
+msgid "Please send it via our sales contact page."
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:208
+msgid "Contact Page"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:214 inc/admin/class-envince-admin.php:222
+msgid "Translate"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:218
+msgid "Click below to translate this theme into your own language."
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:234
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:234
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:237
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:237
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:254
+msgid "View changelog below."
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:306
+msgid "This theme recommends following plugins."
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:308 inc/admin/class-envince-admin.php:362
+msgid "Social Icons"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:309 inc/admin/class-envince-admin.php:312
+msgid " by ThemeGrill"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:311
+msgid "Easy Social Sharing"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:314
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:315
+msgid "Page Builder by SiteOrigin"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:317
+msgid "WPML"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:318
+msgid " Fully Compatible in Pro"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:340
+msgid "Features"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Envince"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:342
+msgid "Envince Pro"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:347
+msgid "Google Fonts Option"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:349
+msgid "600+"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:352
+msgid "Font Size options"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:357
+msgid "Color Palette"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:358
+msgid "Primary Color Option"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:359
+msgid "20+ Color Options"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:367
+msgid "Boxed & Wide layout option"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:372
+msgid "Custom Menu"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:377
+msgid "Translation Ready"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:382
+msgid "WPML Compatible"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:387
+msgid "The Events Calendar Compatible"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:392
+msgid "Footer Copyright Editor"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:397
+msgid "Footer Widgets Column"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:398 inc/admin/class-envince-admin.php:399
+msgid "1,2,3,4 Columns"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:402
+msgid "Demo Content"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:407
+#: inc/admin/customize-control-important-links.php:20
+msgid "Support"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:408
+msgid "Forum"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:409
+msgid "Forum + Emails/Support Ticket"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:412
+msgid "Unique Posts System"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:417
+msgid "TG: Advertisement widget"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:422
+msgid "TG: Featured Post Slider widget"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:427
+msgid "TG: Image Grid Post widget"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:432
+msgid "TG: Two Column Featured Post widget"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:437
+msgid "TG: One Column Featured Post widget"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:442
+msgid "TG: News Ticker Widget"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:447
+msgid "TG: Post List Widget"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:452
+msgid "TG: Post Carousel Widget"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:457
+msgid "TG: Events Grid"
+msgstr ""
+
+#: inc/admin/class-envince-admin.php:462
+msgid "TG: Single Post Slider"
+msgstr ""
+
+#: inc/admin/customize.php:59
+msgid "Envince Important Links"
+msgstr ""
+
+#: inc/admin/customize.php:73
+msgid "Important Links"
+msgstr ""
+
+#: inc/admin/customize.php:93
+msgid "Display Site Title"
+msgstr ""
+
+#: inc/admin/customize.php:112
+msgid "Display Site Tagline"
+msgstr ""
+
+#: inc/admin/customize.php:136
+msgid "Logo Upload"
+msgstr ""
+
+#: inc/admin/customize.php:148 library/admin/meta-box-post-layout.php:35
+#: library/inc/functions-customize.php:72
+msgid "Layout"
+msgstr ""
+
+#: inc/admin/customize.php:172
+msgid "Layout Sidebar"
+msgstr ""
+
+#: inc/admin/customize.php:193
+msgid "Layout Style"
+msgstr ""
+
+#: inc/admin/customize.php:218
+msgid "Layout Width"
+msgstr ""
+
+#: inc/admin/customize.php:242
+msgid "Choose the number of widget area you want in footer"
+msgstr ""
+
+#: inc/admin/customize.php:246
+msgid "1 Footer Widget Area"
+msgstr ""
+
+#: inc/admin/customize.php:247
+msgid "2 Footer Widget Area"
+msgstr ""
+
+#: inc/admin/customize.php:248
+msgid "3 Footer Widget Area"
+msgstr ""
+
+#: inc/admin/customize.php:249
+msgid "4 Footer Widget Area"
+msgstr ""
+
+#: inc/admin/customize.php:258
+msgid "Header Info"
+msgstr ""
+
+#: inc/admin/customize.php:279
+msgid "Phone Number"
+msgstr ""
+
+#: inc/admin/customize.php:300
+msgid "Email"
+msgstr ""
+
+#: inc/admin/customize.php:321
+msgid "Location"
+msgstr ""
+
+#: inc/admin/customize.php:332
+msgid "Category Color Options"
+msgstr ""
+
+#: inc/admin/customize.php:334
+msgid "Change the color of each category items as you want."
+msgstr ""
+
+#: inc/admin/customize.php:342
+msgid "Category Color Settings"
+msgstr ""
+
+#: inc/admin/customize.php:387
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#: inc/admin/customize.php:408
+msgid "Remove Featured Image from Single Post"
+msgstr ""
+
+#: inc/admin/metabox.php:24
+msgid ""
+"Select layout for this specific Page only ( Note: This setting only "
+"reflects if page Template is set as Default Template.)"
+msgstr ""
+
+#: inc/admin/metabox.php:30
+msgid "Select layout for this specific Post only"
+msgstr ""
+
+#: inc/admin/metabox.php:43
+msgid "Default Layout Set in"
+msgstr ""
+
+#: inc/admin/metabox.php:49
+msgid "1 Column - Full Width"
+msgstr ""
+
+#: inc/admin/metabox.php:55
+msgid "2 Column - Left Sidebar"
+msgstr ""
+
+#: inc/admin/metabox.php:61
+msgid "2 Column - Right Sidebar"
+msgstr ""
+
+#: inc/admin/metabox.php:67
+msgid "3 Column - Sidebar Sidebar Content"
+msgstr ""
+
+#: inc/admin/metabox.php:73
+msgid "3 Column - Sidebar Content Sidebar"
+msgstr ""
+
+#: inc/admin/metabox.php:79
+msgid "3 Column - Content Sidebar Sidebar"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:330
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:332
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:370
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:386
+#: inc/classes/class-tgm-plugin-activation.php:827
+#: inc/classes/class-tgm-plugin-activation.php:2533
+#: inc/classes/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:387
+#: inc/classes/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:388
+#: inc/classes/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:390
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:392
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:394
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:934
+#: inc/classes/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1982
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2392
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2396
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2400
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2603
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2608
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2614
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3498
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3501
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3503
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3509
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3509
+#: inc/classes/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3509
+#: inc/classes/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3512
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3517
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3520
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/functions/custom-colors.php:262
+msgid "Primary Color"
+msgstr ""
+
+#: inc/functions/custom-css.php:124
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/theme.php:99
+msgid ""
+"Main Sidebar used in both two column and three column layout. Generally "
+"present in Right section."
+msgstr ""
+
+#: inc/theme.php:107
+msgid "Secondary Sidebar used in three column layout only."
+msgstr ""
+
+#: inc/theme.php:115
+msgid ""
+"Header Sidebar located in the right section beside the site title and above "
+"the menu."
+msgstr ""
+
+#: inc/theme.php:123
+msgid "Magazine Template Content Area Sidebar."
+msgstr ""
+
+#: inc/theme.php:131
+msgid "Magazine Template Top Sidebar."
+msgstr ""
+
+#: inc/theme.php:139
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: inc/theme.php:147
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: inc/theme.php:155
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: inc/theme.php:163
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: inc/widgets/widgets.php:9
+msgid "Add your Advertisement here"
+msgstr ""
+
+#: inc/widgets/widgets.php:17
+msgid "TG: Advertisement"
+msgstr ""
+
+#: inc/widgets/widgets.php:39 inc/widgets/widgets.php:330
+#: inc/widgets/widgets.php:509 inc/widgets/widgets.php:689
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widgets.php:42
+msgid "Add your Advertisement 728x90 Images Here"
+msgstr ""
+
+#: inc/widgets/widgets.php:44
+msgid "Advertisement Image Link "
+msgstr ""
+
+#: inc/widgets/widgets.php:48
+msgid "Advertisement Image "
+msgstr ""
+
+#: inc/widgets/widgets.php:57
+msgid "Choose an image"
+msgstr ""
+
+#: inc/widgets/widgets.php:57
+msgid "Use image"
+msgstr ""
+
+#: inc/widgets/widgets.php:57
+msgid "Select an Image"
+msgstr ""
+
+#: inc/widgets/widgets.php:120
+msgid ""
+"Display latest posts or posts of specific category, which will be used as "
+"the slider."
+msgstr ""
+
+#: inc/widgets/widgets.php:126
+msgid "TG: Featured Post Slider"
+msgstr ""
+
+#: inc/widgets/widgets.php:141 inc/widgets/widgets.php:337
+#: inc/widgets/widgets.php:516 inc/widgets/widgets.php:696
+msgid "Number of posts to display:"
+msgstr ""
+
+#: inc/widgets/widgets.php:146 inc/widgets/widgets.php:342
+#: inc/widgets/widgets.php:521 inc/widgets/widgets.php:701
+msgid "Show latest Posts"
+msgstr ""
+
+#: inc/widgets/widgets.php:147 inc/widgets/widgets.php:343
+#: inc/widgets/widgets.php:522 inc/widgets/widgets.php:702
+msgid "Show posts from a category"
+msgstr ""
+
+#: inc/widgets/widgets.php:151 inc/widgets/widgets.php:347
+#: inc/widgets/widgets.php:526 inc/widgets/widgets.php:706
+msgid "Select category"
+msgstr ""
+
+#: inc/widgets/widgets.php:163 inc/widgets/widgets.php:353
+#: inc/widgets/widgets.php:532 inc/widgets/widgets.php:712
+msgid "Check to display the posts from child category of the chosen category."
+msgstr ""
+
+#: inc/widgets/widgets.php:302
+msgid "Display latest posts or posts of specific category in two column layout."
+msgstr ""
+
+#: inc/widgets/widgets.php:310
+msgid "TG: Two Column Featured Post Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:334 inc/widgets/widgets.php:513
+#: inc/widgets/widgets.php:693
+msgid "Description"
+msgstr ""
+
+#: inc/widgets/widgets.php:481
+msgid "Display latest posts or posts of specific category in one column layout."
+msgstr ""
+
+#: inc/widgets/widgets.php:489
+msgid "TG: One Column Featured Post Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:661
+msgid "Display latest posts or posts of specific category in image grid."
+msgstr ""
+
+#: inc/widgets/widgets.php:669
+msgid "TG: Image Grid Post Widget"
+msgstr ""
+
+#: library/admin/meta-box-post-style.php:35
+msgid "Style"
+msgstr ""
+
+#: library/admin/meta-box-post-template.php:41
+msgid "Template"
+msgstr ""
+
+#: library/ext/breadcrumb-trail.php:244
+msgid "Browse:"
+msgstr ""
+
+#: library/ext/breadcrumb-trail.php:246
+msgid "Home"
+msgstr ""
+
+#: library/ext/breadcrumb-trail.php:247 library/inc/template-general.php:422
+msgid "404 Not Found"
+msgstr ""
+
+#: library/ext/breadcrumb-trail.php:248 library/inc/template-general.php:218
+msgid "Archives"
+msgstr ""
+
+#: library/ext/breadcrumb-trail.php:250 library/inc/template-general.php:400
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: library/ext/breadcrumb-trail.php:252
+#. Translators: %s is the page number.
+msgid "Page %s"
+msgstr ""
+
+#: library/ext/breadcrumb-trail.php:254 library/inc/template-general.php:354
+#. Translators: Minute archive title. %s is the minute time format.
+msgid "Minute %s"
+msgstr ""
+
+#: library/ext/breadcrumb-trail.php:256
+#. Translators: Weekly archive title. %s is the week date format.
+msgid "Week %s"
+msgstr ""
+
+#: library/inc/class-media-meta.php:245 library/inc/template-media.php:172
+#. Translators: Media dimensions - 1 is width and 2 is height.
+msgid "%1$s &#215; %2$s"
+msgstr ""
+
+#: library/inc/functions-customize.php:95
+msgid "Global Layout"
+msgstr ""
+
+#: library/inc/functions-head.php:140
+#. Translators: 1 is the page title. 2 is the page number.
+msgid "%1$s Page %2$s"
+msgstr ""
+
+#: library/inc/functions-utility.php:94
+#. Translators: Used as a placeholder for untitled posts on non-singular views.
+msgid "(Untitled)"
+msgstr ""
+
+#: library/inc/template-general.php:55
+msgid "http://wordpress.org"
+msgstr ""
+
+#: library/inc/template-general.php:55
+msgid "WordPress"
+msgstr ""
+
+#: library/inc/template-general.php:286
+#. Translators: 1 is the week number and 2 is the year.
+msgid "Week %1$s of %2$s"
+msgstr ""
+
+#: menu/breadcrumbs.php:10
+msgid "You are here:"
+msgstr ""
+
+#: misc/comments-error.php:6
+#. Translators: The two %s are placeholders for HTML. The order can't be
+#. changed.
+msgid "Comments are closed, but %strackbacks%s and pingbacks are open."
+msgstr ""
+
+#: misc/comments-error.php:13
+msgid "Comments are closed."
+msgstr ""
+
+#: misc/comments-nav.php:5
+msgid "Comments Navigation"
+msgstr ""
+
+#: misc/comments-nav.php:11
+#. Translators: Comments page numbers. 1 is current page and 2 is total pages.
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#: misc/loop-nav.php:4
+msgid "Previous Post: %link"
+msgstr ""
+
+#: misc/loop-nav.php:5
+msgid "Next Post: %link"
+msgstr ""
+
+#: sidebar/primary.php:17 sidebar/secondary.php:17
+msgid "Example Widget"
+msgstr ""
+
+#: sidebar/primary.php:19
+#. Translators: The %s are placeholders for HTML, so the order can't be
+#. changed.
+msgid ""
+"This is an example widget to show how the primary sidebar looks by default. "
+"You can add custom widgets from the %swidgets screen%s in the admin."
+msgstr ""
+
+#: sidebar/secondary.php:19
+#. Translators: The %s are placeholders for HTML, so the order can't be
+#. changed.
+msgid ""
+"This is an example widget to show how the secondary sidebar looks by "
+"default. You can add custom widgets from the %swidgets screen%s in the "
+"admin."
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themegrill.com/themes/envince/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Envince is bootstrap 3 powered magazine wp theme to make your site look "
+"good. Create powerful magazine site with drag and drop editing features. "
+"Get free support here: "
+"https://themegrill.com/support-forum/forum/envince-free/ and check demo "
+"here: https://demo.themegrill.com/envince"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeGrill"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themegrill.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Magazine"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Pagebuilder"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1121
+#: inc/classes/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2342
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2388
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/theme.php:81
+msgctxt "nav menu location"
+msgid "Primary"
+msgstr ""
+
+#: inc/theme.php:82
+msgctxt "nav menu location"
+msgid "Header Social"
+msgstr ""
+
+#: inc/theme.php:83
+msgctxt "nav menu location"
+msgid "Footer Social"
+msgstr ""
+
+#: inc/theme.php:98
+msgctxt "sidebar"
+msgid "Primary"
+msgstr ""
+
+#: inc/theme.php:106
+msgctxt "sidebar"
+msgid "Secondary"
+msgstr ""
+
+#: inc/theme.php:114
+msgctxt "sidebar"
+msgid "Header"
+msgstr ""
+
+#: inc/theme.php:122
+msgctxt "sidebar"
+msgid "Mag: Content Section"
+msgstr ""
+
+#: inc/theme.php:130
+msgctxt "sidebar"
+msgid "Mag: Top Section"
+msgstr ""
+
+#: inc/theme.php:138
+msgctxt "sidebar"
+msgid "Footer 1"
+msgstr ""
+
+#: inc/theme.php:146
+msgctxt "sidebar"
+msgid "Footer 2"
+msgstr ""
+
+#: inc/theme.php:154
+msgctxt "sidebar"
+msgid "Footer 3"
+msgstr ""
+
+#: inc/theme.php:162
+msgctxt "sidebar"
+msgid "Footer 4"
+msgstr ""
+
+#: library/ext/breadcrumb-trail.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: library/ext/breadcrumb-trail.php:708 library/inc/template-general.php:376
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: library/ext/breadcrumb-trail.php:725 library/inc/template-general.php:354
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: library/ext/breadcrumb-trail.php:742 library/inc/template-general.php:330
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: library/ext/breadcrumb-trail.php:758 library/ext/breadcrumb-trail.php:787
+#: library/ext/breadcrumb-trail.php:814 library/ext/breadcrumb-trail.php:841
+#: library/ext/breadcrumb-trail.php:1176 library/inc/template-general.php:262
+#: library/inc/template-general.php:286
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: library/ext/breadcrumb-trail.php:759 library/ext/breadcrumb-trail.php:815
+#: library/ext/breadcrumb-trail.php:1180
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: library/ext/breadcrumb-trail.php:760 library/ext/breadcrumb-trail.php:1184
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: library/inc/template-general.php:308
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: library/ext/breadcrumb-trail.php:788 library/inc/template-general.php:286
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: library/inc/functions-attr.php:202
+#. Translators: The %s is the sidebar name. This is used for the 'aria-label'
+#. attribute.
+msgctxt "sidebar aria label"
+msgid "%s Sidebar"
+msgstr ""
+
+#: library/inc/functions-attr.php:235
+#. Translators: The %s is the menu name. This is used for the 'aria-label'
+#. attribute.
+msgctxt "nav menu aria label"
+msgid "%s Menu"
+msgstr ""
+
+#: library/inc/functions-attr.php:476
+#. Translators: Post date/time "title" attribute.
+msgctxt "post time format"
+msgid "l, F j, Y, g:i a"
+msgstr ""
+
+#: library/inc/functions-attr.php:601
+#. Translators: Comment date/time "title" attribute.
+msgctxt "comment time format"
+msgid "l, F j, Y, g:i a"
+msgstr ""
+
+#: library/inc/functions-layouts.php:51
+#. Translators: Default theme layout option.
+msgctxt "theme layout"
+msgid "Default"
+msgstr ""
+
+#: library/inc/template-post.php:219
+#. Translators: Separates tags, categories, etc. when displaying a post.
+msgctxt "taxonomy terms separator"
+msgid ", "
+msgstr ""
+
+#: misc/comments-nav.php:7
+msgctxt "comments navigation"
+msgid "&larr; Previous"
+msgstr ""
+
+#: misc/comments-nav.php:14
+msgctxt "comments navigation"
+msgid "Next &rarr;"
+msgstr ""
+
+#: misc/loop-nav.php:12
+msgctxt "posts navigation"
+msgid "&larr; Previous"
+msgstr ""
+
+#: misc/loop-nav.php:13
+msgctxt "posts navigation"
+msgid "Next &rarr;"
+msgstr ""
+
+#: sidebar/primary.php:5 sidebar/secondary.php:5
+#. Translators: %s is the sidebar name. This is the sidebar title shown to
+#. screen readers.
+msgctxt "sidebar title"
+msgid "%s Sidebar"
+msgstr ""
